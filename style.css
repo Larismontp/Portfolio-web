@@ -1,0 +1,35 @@
+h1 {
+  color: #ffd166;
+}
+h2 {
+  color: #ffd166;
+  font-size: 24px;
+  text-align: center;
+}
+p {
+  color: #ffd166;
+  font-size: 18px;
+}
+body {
+  background-color: #073b4c;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  #description {
+    color:#e9d8a6;
+    text-align: center;
+  }
+  .content-list {
+    color:#e9d8a6;
+    text-align: center;
+  }
+  #name {
+    font-size: 40px;
+    text-align: center;
+  }
+  #Foto-Perfil {
+    text-align: center;
+  }
+
+  ul {
+    list-style: none;
+  }
